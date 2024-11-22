@@ -1,7 +1,41 @@
-<mvc:View controllerName="memleak.controller.View1"
-    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
-    xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
-        <content />
-    </Page>
+<mvc:View xmlns:semantic="sap.f.semantic" controllerName="memleak.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:u="sap.ui.unified">
+    <semantic:SemanticPage id="page">
+        <semantic:content>
+            <VBox id="x">
+                <Panel id="panelKalenderId" expandable="true" expanded="true" headerText="{i18n>kalender}" width="auto">
+                    <IconTabBar id="_IDGenIconTabBar1" backgroundDesign="Translucent" select="onIconTabChanged" expandable="false">
+                        <items>
+                            <IconTabFilter id="iconTabFilterCalendar" icon="sap-icon://appointment" key="info" text="{i18n>kalender}">
+                                <MessageStrip id="messageStripCalendar" type="Information" showIcon="true" class="sapUiMediumMarginEndBottom"/>
+                                <HBox id="horizontalLayoutSelectie" class="sapUiSmallMarginTopBottom">
+                                    <Label id="labelAfwezigVan" text="{i18n>afwezigVan}" class="labelMarginLeft" design="Bold"/>
+                                    <Text id="selectedDateFrom" text="{i18n>noDateSelected}" class="sapUiSmallMarginBeginEnd"/>
+                                    <Label id="labelAfwezigTot" text="{i18n>afwezigTot}" class="labelMarginLeft" design="Bold"/>
+                                    <Text id="selectedDateTo" text="{i18n>noDateSelected}" class="sapUiSmallMarginBegin"/>
+                                </HBox>
+                            </IconTabFilter>
+                        </items>
+                    </IconTabBar>
+                </Panel>
+                <VBox id="_IDGenVBox1">
+                    <u:Calendar
+                        id="calendar"
+                        months="4"
+                        intervalSelection="true"
+                        select="handleCalendarSelect"
+                        width="100%"
+                        showWeekNumbers="false"
+                        nonWorkingDays=""
+                        firstDayOfWeek="1"
+                        disabledDates="{disabled>/}"
+                        class="custom-calendar">
+                        <u:disabledDates>
+                            <u:DateRange id="dateRangeId1" startDate="{disabled>/start}" endDate="{disabled>/end}"/>
+                        </u:disabledDates>
+                    </u:Calendar>
+                    <u:CalendarLegend id="legend"/>
+                </VBox>
+            </VBox>
+        </semantic:content>
+    </semantic:SemanticPage>
 </mvc:View>

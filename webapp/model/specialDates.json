@@ -1,0 +1,522 @@
+[
+    {
+        "begda": "20230101",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230102",
+        "hooverDescription": "Leave type 2 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230103",
+        "hooverDescription": "Leave type 2 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230104",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230105",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230106",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230107",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230108",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230114",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230115",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230121",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230122",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230128",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230129",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230202",
+        "hooverDescription": "O.L.Vrouw Lichtmis",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20230203",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230204",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230205",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230211",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230212",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230218",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230219",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230224",
+        "hooverDescription": "Leave type 3 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230225",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230226",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230227",
+        "hooverDescription": "Leave type 4 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230304",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230305",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230311",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230312",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230318",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230319",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230325",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230326",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230401",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230402",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230404",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230405",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230406",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230407",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230408",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230409",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230410",
+        "hooverDescription": "2e Paasdag",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20230415",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230416",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230422",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230423",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230427",
+        "hooverDescription": "Leave type 5 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230429",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230430",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230501",
+        "hooverDescription": "1-mei-viering",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20230506",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230507",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230513",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230514",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230518",
+        "hooverDescription": "O.L.H.-Hemelvaart",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20230519",
+        "hooverDescription": "Leave type 1 desc",
+        "absenceCode": "GV"
+    },
+    {
+        "begda": "20230520",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230521",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230527",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20230528",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241101",
+        "hooverDescription": "Allerheiligen",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20241102",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241103",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241104",
+        "hooverDescription": "Leave type 6 desc",
+        "absenceCode": "AV"
+    },
+    {
+        "begda": "20241105",
+        "hooverDescription": "Leave type 7 desc",
+        "absenceCode": "AV"
+    },
+    {
+        "begda": "20241106",
+        "hooverDescription": "Leave type 7 desc",
+        "absenceCode": "AV"
+    },
+    {
+        "begda": "20241107",
+        "hooverDescription": "Leave type 7 desc",
+        "absenceCode": "AV"
+    },
+    {
+        "begda": "20241108",
+        "hooverDescription": "Leave type 7 desc",
+        "absenceCode": "AV"
+    },
+    {
+        "begda": "20241109",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241110",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241111",
+        "hooverDescription": "Wapenstilstand 1918",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20241116",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241117",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241123",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241124",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241130",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241201",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241207",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241208",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241214",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241215",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241221",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241222",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241223",
+        "hooverDescription": "Leave type 7 desc",
+        "absenceCode": "AV"
+    },
+    {
+        "begda": "20241224",
+        "hooverDescription": "Leave type 7 desc",
+        "absenceCode": "AV"
+    },
+    {
+        "begda": "20241225",
+        "hooverDescription": "1e Kerstdag",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20241226",
+        "hooverDescription": "2de Kerstdag",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20241227",
+        "hooverDescription": "Vervanging 21 Juli Nat. Feestd",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20241228",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241229",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20241230",
+        "hooverDescription": "Gelijkstelling Rijksunivers.",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20241231",
+        "hooverDescription": "Vervanging Allerzielen",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20250101",
+        "hooverDescription": "Nieuwjaar",
+        "absenceCode": "FD"
+    },
+    {
+        "begda": "20250104",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250105",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250111",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250112",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250118",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250119",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250125",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250126",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250201",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    },
+    {
+        "begda": "20250202",
+        "hooverDescription": "",
+        "absenceCode": "NW"
+    }
+]
